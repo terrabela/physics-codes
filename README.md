@@ -11,8 +11,8 @@ Instruction for running will be available soon.
 
 ## Screenshots
 
-<img src="github.com/terrabela/physics-codes/blob/master/github.com/terrabela/physics-codes/Captura_2020-05-24_18-56-45.png" width="80%"></img>
+<img src="Captura_2020-05-24_18-56-45.png" width="80%"></img>
 ### Full spectrum
 
-<img src="github.com/terrabela/physics-codes/blob/master/github.com/terrabela/physics-codes/Captura_2020-05-24_18-57-26.png" width="80%"></img>
+<img src="Captura_2020-05-24_18-57-26.png" width="80%"></img>
 ### Spectrum window with CWT ridges
